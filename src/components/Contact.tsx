@@ -9,42 +9,42 @@ const Contact = () => {
       label: "Email",
       value: "tehilafavourite@gmail.com",
       href: "mailto:tehilafavourite@gmail.com",
-      color: "text-blue-600"
+      color: "text-subtle-highlight"
     },
     {
       icon: Github,
       label: "GitHub",
       value: "TehilaFavourite",
       href: "https://github.com/TehilaFavourite",
-      color: "text-gray-600"
+      color: "text-muted-foreground"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       value: "ajaye-favour-blockchain-developer",
       href: "http://linkedin.com/in/ajaye-favour-blockchain-developer",
-      color: "text-blue-600"
+      color: "text-subtle-highlight"
     },
     {
       icon: MessageSquare,
       label: "X (Twitter)",
       value: "@teheelaa",
       href: "https://x.com/teheelaa",
-      color: "text-gray-600"
+      color: "text-muted-foreground"
     },
     {
       icon: FileText,
       label: "Medium",
       value: "@favoriteblockchain",
       href: "https://medium.com/@favoriteblockchain",
-      color: "text-green-600"
+      color: "text-subtle-highlight"
     },
     {
       icon: Hash,
       label: "Hashnode",
       value: "favourajaye.hashnode.dev",
       href: "https://favourajaye.hashnode.dev/",
-      color: "text-blue-600"
+      color: "text-subtle-highlight"
     }
   ];
 

@@ -5,6 +5,13 @@ import { ExternalLink, Trophy } from "lucide-react";
 const Projects = () => {
   const dapps = [
     {
+      title: "Closecarbon Platform",
+      company: "Closecarbon",
+      description: "Carbon offset marketplace enabling businesses to track, measure, and offset their environmental impact.",
+      link: "https://closecarbon.com/",
+      tech: ["Backend API", "Carbon Credits", "Payment Processing", "Environmental Impact"]
+    },
+    {
       title: "Decentralized P2P System",
       company: "Rigel Protocol Lab",
       description: "Secure, non-custodial asset transfer platform with escrow logic and cryptographic safeguards.",
