@@ -57,6 +57,9 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "subtle-highlight": "hsl(var(--subtle-highlight))",
+        "section-border": "hsl(var(--section-border))",
+        "hover-accent": "hsl(var(--hover-accent))",
       },
       borderRadius: {
         lg: "var(--radius)",
